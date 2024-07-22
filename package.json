@@ -1,0 +1,15 @@
+{
+  "name": "bc17-w4d2-intro-to-express-irene-1308",
+  "version": "1.0.0",
+  "description": "## Part 1: Installing Express On Your Node Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "IT",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
